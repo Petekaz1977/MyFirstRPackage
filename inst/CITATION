@@ -1,0 +1,15 @@
+citHeader("To cite the HellCor package in publications use:")
+citEntry(entry="Article",
+title = "The Hellinger correlation",
+author = personList(as.person("G. Geenens"), as.person("P. Lafaye de Micheaux")),
+journal = "Submitted",
+year = "2019",
+pages = "--",
+volume = "",
+textVersion =
+paste("Geenens, G. and Lafaye De Micheaux, P. (2019)",
+"The Hellinger correlation",
+"Submitted",
+"vol. , p.--"
+)
+)
